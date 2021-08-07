@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import streamlit as st
 import pandas as pd
-from flask import Flask
 from wordcloud import WordCloud
 import joblib
 import spacy
