@@ -50,7 +50,6 @@ missingno==0.4.2
 mistune==0.8.4
 murmurhash==1.0.5
 mypy-extensions==0.4.3
-nbpep8==0.0.15
 nltk==3.6.2
 numexpr==2.7.3
 numpy==1.21.1
