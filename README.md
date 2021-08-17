@@ -9,3 +9,4 @@ API permettant de générer des tags à partir d'un machine learning effectuer s
 
 ## <span id="api">Lien API</span>
 Ci-dessous le lien pour poser votre question
+https://app-classification-cteurio.herokuapp.com/
